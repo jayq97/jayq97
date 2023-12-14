@@ -13,8 +13,3 @@ I'm Jay, a Software Developer passionate about building full-stack systems. For 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jayq97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayq97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contact
-
-- **E-Mail:** jay.quidet@hotmail.com
-- **LinkedIn:** [jayq97](https://www.linkedin.com/in/jayq97/)
